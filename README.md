@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+offline-first+AI+systems+that+run+on+your+machine;Full+stack+apps+with+React%2C+Node.js+%26+Spring+Boot;Real-time+networked+systems+in+Java;Shipping+with+Docker%2C+Linux+%26+CI%2FCD" alt="Typing SVG" />
 
 <p>
-<a href="https://risapan.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://risapan.github.io"><img src="https://img.shields.io/badge/Portfolio-risapan.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ravindran-risapan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Risapan?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Risapan&style=for-the-badge&color=0ea5e9&label=Profile+Views" />
@@ -102,6 +102,6 @@ Role-based hospital platform for patients, doctors, receptionists and admins: bo
 
 ## Let's connect
 
-I'm open to **internships, collaborations and interesting problems**. See my full portfolio at **[my portfolio](https://risapan.github.io)**. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/ravindran-risapan).
+I'm open to **internships, collaborations and interesting problems**. See my full portfolio at **[risapan.github.io](https://risapan.github.io)**. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/ravindran-risapan).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
