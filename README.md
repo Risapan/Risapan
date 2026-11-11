@@ -36,9 +36,9 @@ A real-time voice assistant that runs **100% offline**. Listens, transcribes, th
 <td width="50%" valign="top">
 
 ### 🚗 [EasyPick](https://github.com/Risapan/EasyPick_Devops)
-Vehicle reservation and rental platform for Sri Lanka, with owner verification, customer and owner dashboards, and containerised deployment.
+Vehicle reservation and rental platform for Sri Lanka, with owner verification, customer and owner dashboards and JWT auth. Containerised with Docker Compose and shipped through a Jenkins CI/CD pipeline.
 
-`TypeScript` `React` `Node.js` `MySQL` `Docker`
+`TypeScript` `React` `Express` `MySQL` `Docker` `Jenkins`
 
 </td>
 </tr>
@@ -54,9 +54,9 @@ A multi-client live auction server over raw TCP. Uses Java 21 virtual threads, a
 <td width="50%" valign="top">
 
 ### 🏥 [Hospital Appointment System](https://github.com/Risapan/Hospital_Appointment)
-A web app for booking and managing doctor appointments, built around patient and staff workflows.
+Role-based hospital platform for patients, doctors, receptionists and admins: booking, doctor schedules, daily front-desk operations and audit logs, secured with JWT.
 
-`TypeScript` `React` `Node.js`
+`Spring Boot` `Spring Security` `MongoDB` `React` `TypeScript` `Tailwind`
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ A web app for booking and managing doctor appointments, built around patient and
 <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,fastapi,spring,tailwind" />
 
 **Data, DevOps & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github,githubactions,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github,githubactions,jenkins,vscode,idea" />
 
 **AI / ML**<br/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
