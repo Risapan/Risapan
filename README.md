@@ -1,123 +1,107 @@
 <div align="center">
 
-# 👋 Hi, I'm Risapan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ravindran%20Risapan&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Computer%20Engineering%20%C2%B7%20AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%" />
 
-### Computer Engineering Undergraduate | AI & ML Enthusiast | Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+offline-first+AI+systems+that+run+on+your+machine;Full+stack+apps+with+React%2C+Node.js+%26+Spring+Boot;Real-time+networked+systems+in+Java;Shipping+with+Docker%2C+Linux+%26+CI%2FCD" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Linux+%26+DevOps+Learner;Building+Projects+and+Learning+Every+Day" />
+<p>
+<a href="https://www.linkedin.com/in/ravindran-risapan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Risapan?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Risapan&style=for-the-badge&color=0ea5e9&label=Profile+Views" />
+</p>
 
 </div>
 
----
+## About me
 
-<h2>🚀 About Me</h2>
+I'm a **Computer Engineering undergraduate at the University of Ruhuna** (Faculty of Engineering) who likes turning ideas into working software. Most of what I build sits where **AI meets real products**: local LLM agents, voice assistants, and the full stack apps around them.
 
-<ul>
-<li>🎓 Computer Engineering Undergraduate at University of Ruhuna (FOE - 25th Batch)</li>
-<li>🤖 Currently focusing on Artificial Intelligence & Machine Learning</li>
-<li>💻 Interested in Full Stack Development</li>
-<li>🐧 Linux and DevOps Enthusiast</li>
-<li>📚 Learning Spring Boot, Docker, React and System Design</li>
-<li>🚀 Building real-world software projects</li>
-</ul>
+- 🤖 **AI / ML:** local LLMs with Ollama, multi-agent pipelines, speech-to-text and text-to-speech, all running offline on device
+- 🌐 **Full stack:** React and TypeScript frontends, Node.js / FastAPI / Spring Boot backends, MySQL and MongoDB
+- ⚙️ **Systems & DevOps:** Java networking (TCP, concurrency), Docker, Linux, GitHub Actions
+- 🎯 **Looking for:** software engineering or AI/ML internships where I can ship real features and learn fast
 
----
+## Featured projects
 
-<h2>🛠️ Technologies & Tools</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
+### 🎙️ [Jarvis Offline Assistant](https://github.com/Risapan/Jarvis_Offline_assist)
+A real-time voice assistant that runs **100% offline**. Listens, transcribes, thinks with a local LLM and answers out loud, and can control the Mac.
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,react,nodejs,express,mysql,mongodb,docker,git,github,linux,vscode" />
+`Python` `Whisper (MLX)` `Ollama` `Kokoro TTS` `VAD`
 
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### 🚗 [EasyPick](https://github.com/Risapan/EasyPick_Devops)
+Vehicle reservation and rental platform for Sri Lanka, with owner verification, customer and owner dashboards, and containerised deployment.
 
-<h2>📌 Current Project</h2>
+`TypeScript` `React` `Node.js` `MySQL` `Docker`
 
-<h3>🚗 EasyPick</h3>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-A Vehicle Reservation and Rental Platform designed for Sri Lanka.
-</p>
+### 🔨 [BidNet: Real-Time Auction](https://github.com/Risapan/bidnet_demo)
+A multi-client live auction server over raw TCP. Uses Java 21 virtual threads, a JSON message protocol, unit tests and CI.
 
-<ul>
-<li>Vehicle Booking System</li>
-<li>Owner Verification</li>
-<li>Customer Dashboard</li>
-<li>Owner Dashboard</li>
-<li>MySQL Database</li>
-<li>Docker Deployment</li>
-<li>React Frontend</li>
-<li>Node.js Backend</li>
-</ul>
+`Java 21` `TCP Sockets` `Maven` `JUnit 5` `GitHub Actions`
 
----
+</td>
+<td width="50%" valign="top">
 
-<h2>🎯 Current Goals</h2>
+### 🏥 [Hospital Appointment System](https://github.com/Risapan/Hospital_Appointment)
+A web app for booking and managing doctor appointments, built around patient and staff workflows.
 
-✅ Become an AI Engineer
+`TypeScript` `React` `Node.js`
 
-✅ Master Machine Learning
+</td>
+</tr>
+</table>
 
-✅ Improve Linux & DevOps Skills
+**Also building:** a 3-agent trading-insight system (Analyst → Reviewer → Judge on local LLMs), a local AI writing assistant (React + FastAPI), and native macOS notch apps in Swift.
 
-✅ Build Production Ready Applications
+## Tech stack
 
-✅ Contribute to Open Source Projects
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,c,swift,html,css" />
 
----
+**Frontend & Backend**<br/>
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,fastapi,spring,tailwind" />
 
-<h2>📊 GitHub Statistics</h2>
+**Data, DevOps & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github,githubactions,vscode,idea" />
 
-<p align="center">
+**AI / ML**<br/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20Agents-6E56CF?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=risapan&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risapan&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-<h2>🔥 GitHub Streak</h2>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-
-</p>
-
----
-
-<h2>🌱 Currently Learning</h2>
-
-<p align="center">
-
-Artificial Intelligence • Machine Learning • Docker • Spring Boot • Linux • DevOps • Cloud Computing
-
-</p>
-
----
-
-<h2>📫 Connect With Me</h2>
-
-<p align="center">
-
-<a href="https://github.com/risapan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ravindran-risapan?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
+## GitHub activity
 
 <div align="center">
 
-### 💡 "Learning, Building, and Innovating Through Engineering"
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Risapan&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risapan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=Risapan&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Risapan&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
+
+## Currently learning
+
+`System Design` · `Spring Boot` · `Kubernetes` · `Cloud (AWS)` · `RAG & LLM fine-tuning`
+
+## Let's connect
+
+I'm open to **internships, collaborations and interesting problems**. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/ravindran-risapan).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
